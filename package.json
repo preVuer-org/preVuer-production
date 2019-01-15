@@ -1,0 +1,25 @@
+{
+  "name": "pre-vuer",
+  "version": "1.0.0",
+  "description": "a prototyping tool for Vue developers",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm install & electron ."
+  },
+  "contributors": [
+    "Chris F (https://github.com/chrisfranz)",
+    "EB (https://github.com/evgenii-codesmith)",
+    "Jim Y (https://github.com/orenJim)"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^3.0.13",
+    "konva": "^2.6.0",
+    "vue": "^2.5.21",
+    "vue-konva": "^2.0.0",
+    "vue-material": "^1.0.0-beta-10.2",
+    "vue-material-design-icons": "^2.6.0",
+    "vue-nestable": "^1.1.0-beta.2",
+    "vuex": "^3.0.1"
+  }
+}
