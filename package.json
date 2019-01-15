@@ -4,7 +4,7 @@
   "description": "a prototyping tool for Vue developers",
   "main": "index.js",
   "scripts": {
-    "start": "npm install & electron ."
+    "start": "electron ."
   },
   "contributors": [
     "Chris F (https://github.com/chrisfranz)",
